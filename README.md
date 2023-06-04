@@ -1,6 +1,5 @@
 # BASIC-STATS-1
-Q1) Identify the Data type for the Following:
-Activity	                      Data Type
+Q1) Identify the Data type for the Following:                      
 
 Number of beatings from Wife	- Discrete
 
@@ -29,7 +28,6 @@ Gender (Male or Female)	- Discrete
 
 Q2) Identify the Data types, which were among the following
 Nominal, Ordinal, Interval, Ratio.
-Data	     Data Type
 
 Gender	- Nominal
 
@@ -73,7 +71,7 @@ Years of Education	- Ratio
 
 Q3) Three Coins are tossed, find the probability that two heads and one tail are obtained?
 
-Ans P (Two heads and one tail) = N (Event (Two heads and one tail)) / N (Event (Three
+Ans: P (Two heads and one tail) = N (Event (Two heads and one tail)) / N (Event (Three
 coins tossed)) = 3/8 = 0.375 = 37.5%
 
 Q4) Two Dice are rolled, find the probability that sum is
@@ -160,8 +158,8 @@ Car’s speed and distance
 Use Q9_a.csv
 SP and Weight(WT)
 Use Q9_b.csv
-ANS:    
 
+ANS:    
 a)	Car’s speed and distance
 
 Skewness 
